@@ -7,7 +7,9 @@ The idea for this project is to be able to copy a long list of mega.nz links, pu
 Example list of links:
 
 1 - https://mega.nz/#!IVN1laCZ!l7Rc9iRwq1miW1krucs2PiILeHwm_TyEiNg-a9mH
+
 2 - https://mega.nz/#!RV8FUCyS!tRukfjuepjFTA6nLrU7xxR9xSFvEM00ey53wxBO2
+
 3 - https://mega.nz/#!xM8DlCLI!ZkrwWsesq-vEc3jXfGS_hRgpSYnL10w_YdW835fO
 
 ### Features
@@ -15,6 +17,7 @@ Example list of links:
 - It also automatically supports links that do not conform to megadl's requirements in some versions (specifically, the Debian unstable version I had at the time of writing this script).
 
 Ex:
+
 1 - https://mega.nz/file/IVN1laCZ#l7Rc9iRwq1miW1krucs2PiILeHwm_TyEiNg-a9mH
 
 See this github issue:
