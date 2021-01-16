@@ -2,7 +2,7 @@
 
 ## Description
 
-The idea for this project is to be able to copy a long list of mega.nz links, put it into a file, and download all of them using megadl from megatools.
+The idea for this project is to be able to copy a long list of mega.nz links, put it into a file, and download all of them using the megadl tool from [megatools](https://megatools.megous.com/).
 
 Example list of links:
 
@@ -38,3 +38,10 @@ It accepts two commands:
 
 Example:
 `bash batch_megadl.sh -f ./my_text_file_full_of_links -d ./my/destination/directory/`
+
+# Installation
+
+- Download and install [megatools](https://megatools.megous.com/)
+  - You will need it on your /bin so it can be accessed by the script
+- Download this repo's batch_megadl.sh file
+- Now you can run `bash batch_megadl.sh ...etc`
